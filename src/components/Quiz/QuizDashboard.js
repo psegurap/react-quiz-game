@@ -46,7 +46,9 @@ export default function QuizDashboard() {
                 <RequestQuizForm
                     searching={isSearching}
                     onSetIsSearching={(status) => setIsSearching(status)}
+                    onSetQuestions={(questions) => setQuestions(questions)}
                     is_playing={isPlaying}
+                    onSetIsPlaying={setIsPlaying}
                 />
                 {isPlaying && (
                     <QuestionsList

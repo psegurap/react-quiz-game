@@ -95,11 +95,13 @@ export default function RequestQuizForm(props) {
                     question["result"] = "";
                     return question;
                 });
-
                 props.onSetQuestions(questions);
+                props.onSetIsSearching(false);
+                props.onSetIsPlaying(true);
             } else {
                 props.onSetQuestions(questions);
                 props.onSetIsSearching(false);
+                props.onSetIsPlaying(false);
                 setModalDetails({
                     heading: "0 Result Returned",
                     message:
