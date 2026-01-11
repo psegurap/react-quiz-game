@@ -1,0 +1,124 @@
+[
+    {
+        "id": "question_0",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+        "correct_answer": "Guillermo Del Toro",
+        "incorrect_answers": [
+            "Alfonso Cuar&oacute;n",
+            "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+            " Alejandro Jodorowsky"
+        ]
+        
+    },
+    {
+        "id": "question_1",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+        "correct_answer": "A New Hope",
+        "incorrect_answers": [
+            "The Phantom Menace",
+            "The Force Awakens",
+            "Revenge of the Sith"
+        ]
+        
+    },
+    {
+        "id": "question_2",
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+        "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+        "incorrect_answers": [
+            "Christopher Nolan",
+            "David Fincher",
+            "Wes Anderson"
+        ]
+        
+    },
+    {
+        "id": "question_3",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+        "correct_answer": "Guys and Dolls",
+        "incorrect_answers": [
+            "Anchors Aweigh",
+            "From Here to Eternity",
+            "High Society"
+        ]
+        
+    },
+    {
+        "id": "question_4",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which DC superhero was NOT included in the 2017 movie &quot;Justice League&quot;?",
+        "correct_answer": "Green Arrow",
+        "incorrect_answers": ["Batman", "Cyborg", "Wonder Woman"]
+        
+    },
+    {
+        "id": "question_5",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+        "correct_answer": "Shirley Basey",
+        "incorrect_answers": ["Tom Jones", "John Barry", "Sheena Easton"]
+        
+    },
+    {
+        "id": "question_6",
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of these actors have NOT played Spiderman in the movies?",
+        "correct_answer": "Michael Cera",
+        "incorrect_answers": [
+            "Tobey Maguire",
+            "Andrew Garfield",
+            "Tom Holland"
+        ]
+        
+    },
+    {
+        "id": "question_7",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+        "correct_answer": "Corey Feldman",
+        "incorrect_answers": ["Macaulay Culkin", "Mel Gibson", "Mark Hamill"]
+        
+    },
+    {
+        "id": "question_8",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which 90&#039;s comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+        "correct_answer": "Wayne&#039;s World",
+        "incorrect_answers": [
+            "Bill &amp; Ted&#039;s Excellent Adventure",
+            "Dumb and Dumber",
+            "Austin Powers: International Man of Mystery"
+        ]
+    },
+    {
+        "id": "question_9",
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": ["Lady Gaga", "Rihanna", "Justin Bieber"]
+    }
+]
